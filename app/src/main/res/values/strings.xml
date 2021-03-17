@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Paez_Sonia_Servicios</string>
+    <string name="ejercicio_1">Ejercicio1</string>
+    <string name="d_lares_aeuros">Dólares a Euros</string>
+    <string name="euros_a_d_lares">Euros a dólares</string>
+    <string name="d_lares" />
+    <string name="labeldolares">Dólares</string>
+    <string name="euros" />
+    <string name="labeleuros">Euros</string>
+    <string name="convertir">Convertir</string>
+    <string name="resultado"></string>
+</resources>
